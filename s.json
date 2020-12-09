@@ -1,0 +1,18 @@
+[
+    {
+        "name": "a",
+        "value": [
+            3,
+            4
+        ],
+        "color": "red"
+    },
+    {
+        "name": "b",
+        "value": [
+            34,
+            54
+        ],
+        "color": "blue"
+    }
+]

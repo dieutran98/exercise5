@@ -1,0 +1,11 @@
+dele s.json
+add a 3 4 red
+add b 34 54 blue
+save s.json
+d = a + b
+a - b
+help
+import_data s.json
+a.len
+b.len
+c.len
